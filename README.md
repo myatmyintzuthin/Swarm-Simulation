@@ -44,9 +44,12 @@ In creating landscape of food sources, we defined four Gaussian functions and co
                     Blue	                       9
                     Black	                       2
 # Usage
-```CompleteScavenging.m``` is the main project file. Other MATLAB files are just to explain the theory and implementation steps.
-# Contribute
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+The implementation is in MATLAB.
+
+run ```CompleteScavenging.m``` 
+
+# Contributors
+- Aye Thuzar Tun ([@GitHub LittleAtz](https://github.com/atzt61127))
 
 
 
